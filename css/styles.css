@@ -1,19 +1,8 @@
 @charset "UTF-8";
 #page-top{
-  background-image: linear-gradient(177.17deg, #FBF9E4 0.4%, rgba(205, 216, 255, 0.47) 97.72%);;
+  background-image: linear-gradient(rgba(205, 216, 255, 0.47),#E5EAFC,);;
  }
- .section-color{
-  background-image: linear-gradient( rgba(205, 216, 255, 0.47) 97.72% ,177.17deg, #FFFFFF 0.4%);;
- }
- .section-color2{
-  background-image:   linear-gradient(177.17deg, #FFFFFF 0.4%, rgba(205, 216, 255, 0.47) 97.72%);;
- }
- .section-color-team{
-   background-image: linear-gradient(177.17deg, #FBF9E5 0.4%, rgba(205, 216, 255, 0.47) 97.72%);
- }
- .section-color-questions{
-  background-image: linear-gradient(177.17deg, rgba(205, 216, 255, 0.47) 97.72%, #FBF9E5 0.4%);
- }
+
  #road{
    background-color: white;
  }
