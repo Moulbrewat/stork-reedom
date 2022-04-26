@@ -1,7 +1,7 @@
 @charset "UTF-8";
-#page-top{
+/* #page-top{
   background-image: linear-gradient(#E4EAFC,#E4EAFC,#F9F8E5,#FAF8E4,#E4EAFC,white);
- }
+ } */
 
 :root {
   --bs-blue: #0d6efd;
@@ -4506,7 +4506,7 @@ textarea.form-control-lg {
   background-color: #fff;
   background-clip: border-box;
   border: 1px solid rgba(0, 0, 0, 0.125);
-  border-radius: 0.25rem;
+  border-radius: 0.85rem;
 }
 .card > hr {
   margin-right: 0;
