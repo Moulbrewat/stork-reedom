@@ -1,11 +1,8 @@
 @charset "UTF-8";
 #page-top{
-  background-image: linear-gradient(rgba(205, 216, 255, 0.47),#E5EAFC,);;
+  background-image: linear-gradient(#E4EAFC,#E4EAFC,#F9F8E5,#FAF8E4,#E4EAFC,white);
  }
 
- #road{
-   background-color: white;
- }
 :root {
   --bs-blue: #0d6efd;
   --bs-indigo: #6610f2;
