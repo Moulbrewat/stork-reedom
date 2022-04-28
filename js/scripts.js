@@ -16,6 +16,7 @@ function reveal() {
   
   window.addEventListener("scroll", reveal);
 
+
 window.addEventListener('DOMContentLoaded', event => {
 
     // Navbar shrink function
