@@ -2,7 +2,20 @@
 #page-top{
   background-image: linear-gradient(#E4EAFC,#E4EAFC,#F9F8E5,#FAF8E4,#E4EAFC,white);
  }
+ html{
+   scroll-behavior: smooth;
+ }
 
+ .reveal{
+  position: relative;
+  transform: translateY(150px);
+  opacity: 0;
+  transition: 2s all ease;
+}
+.reveal.active{
+  transform: translateY(0);
+  opacity: 1;
+}
 :root {
   --bs-blue: #0d6efd;
   --bs-indigo: #6610f2;
